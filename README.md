@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Saranyapat, 2nd year student in Computer Science - Ramkhamheang University
+
 <!--
 **saranyapatt/saranyapatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
