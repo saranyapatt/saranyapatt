@@ -1,17 +1,17 @@
-# 🚀 Hi there, I'm Saranyapat! 
+# Hi there, I'm Saranyapat! 
 
-### 🎓 Computer Science Student @ Ramkhamhaeng University (Year 2)
+### 🎓 Computer Science Student @ Ramkhamhaeng University (Year 2 == 4)
 **Aspiring AI Engineer | Software Engineer | Data Engineer**
 
-I am a passionate developer focused on building scalable software and intelligent systems. I enjoy bridging the gap between complex data and actionable insights.
+I am a self-driven developer focused on building **scalable software** and **intelligent systems**. Through intensive self-study and project-based learning, I have bypassed the standard curriculum to master advanced concepts in AI architecture and Data Engineering.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 * **Languages:** Python, Java, C++, SQL
-* **AI/Data:** TensorFlow, PyTorch, Pandas, Scikit-learn
-* **Backend:** Node.js, FastAPI, PostgreSQL
+* **AI/Data:** TensorFlow, Pandas, Scikit-learn, Matplotlib, Seaborn
+* **Backend:** Java
 * **Tools:** Docker, Git, Linux, Jupyter Notebooks
 
 ---
