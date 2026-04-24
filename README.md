@@ -1,9 +1,12 @@
 # Hi there, I'm Saranyapat! 
 
 ### 🎓 Computer Science Student @ Ramkhamhaeng University (Year 2 == 4)
+I am an accelerated learner currently executing a high-density academic plan. By optimizing my schedule and maintaining an intensive study rhythm, I have successfully mastered the Year 4 curriculum and passed the corresponding assessments while officially in my 2nd year.
+
 **Aspiring AI Engineer | Software Engineer | Data Engineer**
 
 I am a self-driven developer focused on building **scalable software** and **intelligent systems**. Through intensive self-study and project-based learning, I have bypassed the standard curriculum to master advanced concepts in AI architecture and Data Engineering.
+
 
 ---
 
