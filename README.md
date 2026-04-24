@@ -1,18 +1,38 @@
-## Hi there 👋
+# 🚀 Hi there, I'm Saranyapat! 
 
-My name is Saranyapat, 2nd year student in Computer Science - Ramkhamheang University
+### 🎓 Computer Science Student @ Ramkhamhaeng University (Year 2)
+**Aspiring AI Engineer | Software Engineer | Data Engineer**
 
-<!--
-**saranyapatt/saranyapatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate developer focused on building scalable software and intelligent systems. I enjoy bridging the gap between complex data and actionable insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** Python, Java, C++, SQL
+* **AI/Data:** TensorFlow, PyTorch, Pandas, Scikit-learn
+* **Backend:** Node.js, FastAPI, PostgreSQL
+* **Tools:** Docker, Git, Linux, Jupyter Notebooks
+
+---
+
+### 🔭 What I'm Up To
+- ⚡ **Currently Learning:** Advanced Deep Learning architectures and Big Data processing.
+- 🏗️ **Working on:** nothing.
+- 🤝 **Collaboration:** I'm open to contributing to Open Source projects related to AI and Automation.
+
+---
+
+### 📊 GitHub Stats
+![Saranyapat's GitHub stats](https://github-readme-stats.vercel.app/api?username=saranyapatt&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saranyapatt&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with me:
+* **LinkedIn:** https://www.linkedin.com/in/saranyapat-twc
+* **Email:** saranyapat.twc@gmail.com
+
+---
+
+*"The best way to predict the future is to invent it."*
