@@ -5,7 +5,7 @@ I am an accelerated learner currently executing a high-density academic plan. By
 
 **Aspiring AI Engineer | Software Engineer | Data Engineer**
 
-I am a self-driven developer focused on building **scalable software** and **intelligent systems**. Through intensive self-study and project-based learning, I have bypassed the standard curriculum to master advanced concepts in AI architecture and Data Engineering.
+I am a developer focused on building **scalable software** and **intelligent systems**. Through intensive self-study and project-based learning, I have bypassed the standard curriculum to master advanced concepts in AI architecture and Data Engineering.
 
 
 ---
