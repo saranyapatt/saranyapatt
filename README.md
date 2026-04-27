@@ -21,8 +21,7 @@ I am a developer focused on building **scalable software** and **intelligent sys
 
 ### What I'm Up To
 - **Currently Learning:** Advanced Deep Learning architectures and Big Data processing.
-- **Working on:** nothing.
-- **Collaboration:** I'm open to contributing to Open Source projects related to AI and Automation.
+- **Working on:** new strategies to train a model.
 
 ---
 
