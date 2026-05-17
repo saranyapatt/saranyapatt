@@ -26,7 +26,7 @@ I am a developer focused on building **scalable software** and **intelligent sys
 ---
 
 ### GitHub Stats
-![Saranyapat's GitHub stats](https://github-readme-stats.vercel.app/api?username=saranyapatt&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saranyapatt)](https://github.com/saranyapatt/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saranyapatt&layout=compact&theme=radical)
 
 ---
