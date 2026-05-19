@@ -14,7 +14,7 @@ I am a developer focused on building **scalable software** and **intelligent sys
 
 * **Languages:** Python, Java, C++, SQL
 * **AI/Data:** TensorFlow, Pandas, Scikit-learn, Matplotlib, Seaborn
-* **Backend:** Java
+* **Backend:** Java, GoLang
 * **Tools:** Docker, Git, Linux, Jupyter Notebooks
 
 ---
