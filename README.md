@@ -12,10 +12,10 @@ I am a developer focused on building **scalable software** and **intelligent sys
 
 ### Tech Stack & Tools
 
-* **Languages:** Python, Java, C++, SQL
+* **Languages:** Python, Java, C++, SQL, TypeScript
 * **AI/Data:** TensorFlow, Pandas, Scikit-learn, Matplotlib, Seaborn
-* **Backend:** Java, GoLang
-* **Tools:** Docker, Git, Linux, Jupyter Notebooks
+* **Backend:** Java, TypeScript
+* **Tools:** Git, Linux, Jupyter Notebooks
 
 ---
 
